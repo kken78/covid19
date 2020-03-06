@@ -6,7 +6,7 @@
 
 
 ## How to Contribute / 貢献の仕方
-[Issues]（https://github.com/codeforsapporo/covid19/issues） にあるいろいろな修正にご協力いただけると嬉しいです。
+[Issues](https://github.com/codeforsapporo/covid19/issues) にあるいろいろな修正にご協力いただけると嬉しいです。
 
 詳しくは[How to contribute](https://github.com/tokyo-metropolitan-gov/covid19/wiki/How-to-contribute)を御覧ください。
 
